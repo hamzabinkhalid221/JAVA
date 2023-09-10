@@ -1,14 +1,11 @@
 // Chapter 6 to 9
 
-// // Ask the user for their name
+
 // var userName = prompt("Please enter your name:");
 
-// // Check if the user entered a name
 // if (userName !== null && userName !== "") {
-//   // Greet the user
 //   alert("Hello, " + userName + "! Welcome to our website.");
 // } else {
-//   // Handle the case where the user didn't enter a name
 //   alert("Hello, guest! Welcome to our website.");
 // }
 // var a = 2, b = 1;
@@ -27,29 +24,28 @@
  
 
 
-var a = 10;
+// var a = 10;
 
-document.write("The value of a is: " + a +"<br><br>"); 
+// document.write("The value of a is: " + a +"<br><br>"); 
 
-a = ++a;
-document.write("The value of ++a is: " + a +"<br>"); 
+// a = ++a;
+// document.write("The value of ++a is: " + a +"<br>"); 
 
-a = a;
-document.write("Now the value of a is: " + a +"<br><br>"); 
-a=a++;
-document.write("The value of a++ is: " +a +"<br>");
-a= ++a;
-document.write("Now the value of a is: "  +a  + "<br><br>"); 
+// a = a;
+// document.write("Now the value of a is: " + a +"<br><br>"); 
+// a=a++;
+// document.write("The value of a++ is: " +a +"<br>");
+// a= ++a;
+// document.write("Now the value of a is: "  +a  + "<br><br>"); 
 
-a = --a;
-document.write("The value of --a is: " + a +"<br>"); 
-document.write("Now the value of a is: " + a + "<br><br>"); 
+// a = --a;
+// document.write("The value of --a is: " + a +"<br>"); 
+// document.write("Now the value of a is: " + a + "<br><br>"); 
 
-a = a--;
-document.write("The value of a-- is: " + a +"<br>"); 
-a =--a;
-document.write("Now the value of a is: " + a + "<br>"); 
-// Define the marks for each subject
+// a = a--;
+// document.write("The value of a-- is: " + a +"<br>"); 
+// a =--a;
+// document.write("Now the value of a is: " + a + "<br>"); 
 
 // var eng, urdu, math, tot;
 // tot =100;
