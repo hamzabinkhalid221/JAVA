@@ -1,3 +1,5 @@
+// Chapter 6 to 9
+
 // // Ask the user for their name
 // var userName = prompt("Please enter your name:");
 
