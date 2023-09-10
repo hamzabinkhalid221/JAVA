@@ -79,28 +79,28 @@
 //     document.write("Grade: A" + "<br>");
 //     document.write("Remarks = Good" + "<br>");
 
-var a = parseInt (prompt("Ente the fistNumber"));
-var b = parseInt (prompt("Enter the secondNumber"));
-var operator = prompt("Enter the operation");
-var operation = "+";
-if(operator =="+"){
-    document.write(a+b);
-}
-else if(operator =="-"){
-    document.write(a-b);
-}
-else if(operator == "*"){
-    document.write(a*b);
-}
-else if(operator == "/"){
-    document.write(a/b);
-}
-else if(operator == "%"){
-    document.write(a%b);
-}
-else {
-    document.write("Invalid");
-}
+// var a = parseInt (prompt("Ente the fistNumber"));
+// var b = parseInt (prompt("Enter the secondNumber"));
+// var operator = prompt("Enter the operation");
+// var operation = "+";
+// if(operator =="+"){
+//     document.write(a+b);
+// }
+// else if(operator =="-"){
+//     document.write(a-b);
+// }
+// else if(operator == "*"){
+//     document.write(a*b);
+// }
+// else if(operator == "/"){
+//     document.write(a/b);
+// }
+// else if(operator == "%"){
+//     document.write(a%b);
+// }
+// else {
+//     document.write("Invalid");
+// }
 // var temperature = +prompt("Ente the tempearture in degree to celsis");
 // if(temperature >=40){
 //     console.log("it is too hot outside");
