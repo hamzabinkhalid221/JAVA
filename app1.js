@@ -79,8 +79,8 @@
 //     document.write("Grade: A" + "<br>");
 //     document.write("Remarks = Good" + "<br>");
 
-var a = prompt("Ente the fistNumber");
-var b = prompt("Enter the secondNumber");
+var a = parseInt (prompt("Ente the fistNumber"));
+var b = parseInt (prompt("Enter the secondNumber"));
 var operator = prompt("Enter the operation");
 var operation = "+";
 if(operator =="+"){
