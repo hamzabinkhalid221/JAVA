@@ -89,13 +89,13 @@
 // document.write("Score of Student ::::",score +"<br>");
 // var sort = score.sort();
 // document.write("Order score of student:::::",sort);
+
 //11
 
-// var city = ["khi", "isl", "lahore", "skd", "GB"];
-
-// var copy = city.slice(2, 6);
-
-// console.log(copy);
+// var city = ["Karachi","Islamabd","Pesharw","Queeta","Lahore"];
+// document.write("City List::::::",city +"<br>");
+// var copy = city.slice(3,6);
+// document.write("Select city list:::::",copy +"<br>");
 
 //12
 // var arr = ["this", "is", "my", "cat"];
