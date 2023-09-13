@@ -162,7 +162,7 @@
 // var cell = ["Apple", "Samsung", "Motrola", "Nokia", "Sony", "Vivo"];
 // console.log(cell[2]);
 
-// document.writeln("ssss <br" + cell)
+// document.write("asiiii <br" + cell)
 
 
 
