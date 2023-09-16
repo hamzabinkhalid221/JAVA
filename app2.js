@@ -23,7 +23,7 @@
 
 // console.log(numberOfElements); 
 
-var flag = false;
+// var flag = false;
 
 // var pets = ["cat", "dog", "rabbit", "hamster"];
 
@@ -60,21 +60,21 @@ var flag = false;
 //   }
 // }
 
-var matchFound = false;
-var list = ["item1", "item2", "item3"];
-var userInput = "userInput"; 
+// var matchFound = false;
+// var list = ["item1", "item2", "item3"];
+// var userInput = "userInput"; 
 
-for (var i = 0; i < list.length; i++) {
-  if (userInput === list[i]) {
-    alert("Match found");
-    matchFound = true;
-    break;
-  }
-}
+// for (var i = 0; i < list.length; i++) {
+//   if (userInput === list[i]) {
+//     alert("Match found");
+//     matchFound = true;
+//     break;
+//   }
+// }
 
-if (!matchFound) {
-  alert("Match not found");
-}
+// if (!matchFound) {
+//   alert("Match not found");
+// }
 
 
 
