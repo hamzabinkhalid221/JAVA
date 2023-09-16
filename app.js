@@ -1,3 +1,4 @@
+// Arry & Loop
 // for(a=1;a<=10;a++){
 //     document.write(a, "<br>");
 // }
@@ -93,25 +94,11 @@
 //     console.log("YES AVAIBLE");
 //   }
 // else{
-//   console.log("SORRY");
+//   console.log("Not Avaible");
 // }
 // }
 
-// var matchFound = false;
-// var list = ["item1", "item2", "item3"]; 
-// var userInput = "input"; 
 
-// for (var i = 0; i < list.length; i++) {
-//   if (userInput === list[i]) {
-//     alert("Match found");
-//     matchFound = true;
-//     break;
-//   }
-// }
-
-// if (!matchFound) {
-//   alert("No match found");
-// }
 
 
 
