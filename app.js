@@ -10,6 +10,7 @@
 // console.log(y);
 // var originalString = "YourStringHere";
 // var lowerCaseString = originalString.toLowerCase();
+// console.log("lowerCaseString);
 // var myString = "Hamza"; 
 // var upperCaseString = myString.toUpperCase();
 
