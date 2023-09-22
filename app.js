@@ -110,6 +110,27 @@
 
 // console.log(y); 
 
+// CHAPTER NO: 26
+// var roundedNumber = Math.round(yourNumber);
+// var yourNumber = 15;
+// // console.log(yourNumber);
+
+// var origNum = 5.3; 
+// var roundNum = Math.ceil(origNum);
+// document.write(roundNum);
+
+// var origNum = 5.7; 
+// var roundNum = Math.floor(origNum);
+// document.write(roundNum);
+
+// var originalNumber = 5.6; 
+// // var roundedNumber = Math.round(originalNumber);
+// // document.write(roundedNumber);
+
+// var originalNumber = 0.5; // Replace this with your original number
+// var roundedNumber = Math.floor(originalNumber);
+// document.write(roundedNumber);
+
 
 // CHAPTER NO :27
 
