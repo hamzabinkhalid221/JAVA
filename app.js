@@ -180,9 +180,6 @@
 
   
 
-// var number="123";
-// var sting=number.toString();
-// console.log(sting);
 
 // var str=3.14;
 // var integer  = parseInt(str);
@@ -193,11 +190,10 @@
 
 // Chapter 30
 
-// var str = "3.14";
-// var floatValue = parseFloat(str);
-// var integerValue = Math.floor(floatValue); 
 
-// console.log(integerValue); 
+// var num = 3.12512512125;
+// var newNum = num.toFixed(4);
+// console.log(newNum);
 
 
 // var num=3.14514212151;
