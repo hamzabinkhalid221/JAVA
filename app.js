@@ -11,6 +11,14 @@
 // var originalString = "YourStringHere";
 // var lowerCaseString = originalString.toLowerCase();
 // console.log("lowerCaseString);
+
+// var stringArray = ["Hello, World!"];
+
+// var lowercaseString = stringArray[0].toLowerCase();
+
+// console.log(lowercaseString); 
+
+
 // var myString = "Hamza"; 
 // var upperCaseString = myString.toUpperCase();
 
