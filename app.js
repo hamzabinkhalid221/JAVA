@@ -135,13 +135,10 @@
 // CHAPTER NO :27
 
 
-// var random = Math.random();
+// var randamDecimal = Math.random();
+// var randam = Math.floor(randamDecimal *50) +1;
+// console.log(randam);
 
-// var min = 1;
-// var max = 50;
-// var scaledRandom = Math.floor(random * (max - min + 1)) + min;
-
-// console.log(scaledRandom);
 
 // var randomNumber = Math.random();
 // console.log(randomNumber);
