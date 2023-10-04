@@ -1,3 +1,5 @@
+//                   FUNCTION
+
 // function hi(firstName,lastName,fullName){
 
 // }
