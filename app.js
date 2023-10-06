@@ -75,17 +75,17 @@
 //     } else if (number === 0 || number === 1) {
 // //       return 1;
 // //     } else {
-// //       let result = 1;
-// //       for (let i = 2; i <= number; i++) {
+// //       var result = 1;
+// //       for (var i = 2; i <= number; i++) {
 // //         result *= i;
 // //       }
 // //       return result;
 // //     }
 // //   }
   
-// //   const num = 5;
-// //   const result = factorial(num);
-// //   console.log(`The factorial of ${num} is ${result}`);
+// //   var num = 5;
+// //   var result = factorial(num);
+// //   console.log(result);
   
 
 // // function squareNumber(number) {
