@@ -1,37 +1,13 @@
-#stopwatch-container {
-    /* width: 800px; */
-    margin: 10% auto;
-    padding: 5% 0;
-    color: #202020;
-    text-align: center;
-    /* background-color: lightblue; */
-    /* box-shadow: 1px 0px 4px 2px #9c9a9a; */
-    /* border-radius: 20px; */
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
- 
-#stopwatch {
-    font-size: 70px;
-    margin-bottom: 10px;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
- 
-button {
-    width: 100px;
-    height: 70px;
-    background-color: #202020;
-    color: white;
-    border-radius: 50px;
-    border: 2px solid #fff;
-    margin-left: 5px;
-    margin-right: 5px;
-}
- 
-button:hover {
-    background-color: #ffffff;
-    color: #202020;
-    cursor: pointer;
-}
+
 *{
-    background-color: lightblue;
+    background: lightblue;
+    font-size: 20px;
+    border-radius: 50px;
+
+
+}
+
+h1{
+    font-size: 40px;
+    color: gray;
 }
