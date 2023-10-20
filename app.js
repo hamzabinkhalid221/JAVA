@@ -30,6 +30,12 @@ function DeleteTask(button){
     var taskList = document.getElementById('taskList');
     taskList.removeChild(listItem);
 }
+function deleteAll(){
+    var taskinput = document.getElementById('taskList');
+    taskList.innerHTML = "";
+}
+
+
 
 
 
